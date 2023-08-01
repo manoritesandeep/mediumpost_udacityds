@@ -1,1 +1,1 @@
-# mediumpost_udacityds
+# mediumpost for udacity Data Scientist Project 1:
